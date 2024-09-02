@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3c2e7b8-08f3-4b90-a39b-a3f4762de708" name="Changes" comment="testando o repositorio">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Operadores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tipos_e_variaveis/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Index.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Index.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-para-web/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-para-web/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-para-web/Index.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Index.java" beforeDir="false" afterPath="$PROJECT_DIR$/Index.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +38,6 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "TiposPimitivosVariaveisOperadores",
     "last_opened_file_path": "H:/Dev/Java-para-web"
   }
