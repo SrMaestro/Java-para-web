@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3c2e7b8-08f3-4b90-a39b-a3f4762de708" name="Changes" comment="testando o repositorio">
-      <change afterPath="$PROJECT_DIR$/src/ContadorSimples.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/DecisaoGuardaChuva.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DiaDaSemana.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Index.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-para-web/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-para-web/.idea/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,20 +43,7 @@
     &quot;last_opened_file_path&quot;: &quot;H:/Dev/Java-para-web&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ContadorSimples">
-    <configuration name="ContadorSimples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.ContadorSimples" />
-      <module name="Java-para-web" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="DecisaoGuardaChuva" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.DecisaoGuardaChuva" />
       <module name="Java-para-web" />
@@ -75,7 +59,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ContadorSimples" />
         <item itemvalue="Application.DecisaoGuardaChuva" />
       </list>
     </recent_temporary>
